@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faWallet, faTerminal, faShieldHalved, faBan,
   faCopy, faCheck, faBolt, faSkull,
-  faArrowRightArrowLeft, faCoins, faChartLine,
+  faArrowRightArrowLeft, faChartLine,
   faLock, faCircleCheck, faTriangleExclamation, faRocket, faCircleNotch
 } from '@fortawesome/free-solid-svg-icons';
 import { useWalletState } from '@getpara/react-sdk';

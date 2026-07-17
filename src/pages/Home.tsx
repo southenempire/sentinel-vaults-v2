@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+
 import { useModal, useWalletState } from '@getpara/react-sdk';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons';

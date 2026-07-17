@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBolt, faBan, faCoins, faLock, faCheck, faPen } from '@fortawesome/free-solid-svg-icons';
+import { faBolt, faBan, faCoins, faLock, faCheck, faPen, faTriangleExclamation } from '@fortawesome/free-solid-svg-icons';
 
 function RuleCard({ icon, title, description, value, unit, color = 'var(--c-accent)' }: {
   icon: any; title: string; description: string; value: string; unit: string; color?: string;

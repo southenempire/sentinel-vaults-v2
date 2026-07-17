@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCircleCheck, faTriangleExclamation, faBolt, faArrowRightArrowLeft } from '@fortawesome/free-solid-svg-icons';
+import { faCircleCheck, faTriangleExclamation, faArrowRightArrowLeft } from '@fortawesome/free-solid-svg-icons';
 
 import { useLogs } from '../context/LogContext';
 

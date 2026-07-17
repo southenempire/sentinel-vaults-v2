@@ -1,6 +1,6 @@
 import { useModal, useWalletState, useLogout } from '@getpara/react-sdk';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faWallet, faSun, faMoon, faTableColumns, faShieldHalved } from '@fortawesome/free-solid-svg-icons';
+import { faWallet, faSun, faMoon, faTableColumns } from '@fortawesome/free-solid-svg-icons';
 import { motion } from 'framer-motion';
 import { Link, Outlet, useNavigate } from 'react-router-dom';
 import { useTheme } from '../context/ThemeContext';

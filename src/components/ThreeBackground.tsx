@@ -66,7 +66,7 @@ export default function VaultVisualizer() {
     const particleCount = 2000;
     const pGeometry = new THREE.BufferGeometry();
     const pPositions = new Float32Array(particleCount * 3);
-    const pVelocities = [];
+    const pVelocities: { x: number; y: number }[] = [];
 
     for (let i = 0; i < particleCount; i++) {
       pPositions[i * 3] = (Math.random() - 0.5) * 40;

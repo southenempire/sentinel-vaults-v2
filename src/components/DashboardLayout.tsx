@@ -161,7 +161,7 @@ export default function DashboardLayout() {
         {/* Bottom: Actions */}
         <div style={{ display: 'flex', flexDirection: 'column', gap: '4px' }}>
           <button
-            onClick={openModal}
+            onClick={() => openModal()}
             style={{
               width: '100%', padding: '10px 16px', borderRadius: '8px',
               display: 'flex', alignItems: 'center', gap: '10px',

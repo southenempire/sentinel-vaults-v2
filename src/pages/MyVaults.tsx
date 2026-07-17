@@ -1,7 +1,7 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faShieldHalved, faBolt, faCoins, faBan, faPlus, faTimes, faCheckCircle, faSpinner } from '@fortawesome/free-solid-svg-icons';
+import { faShieldHalved, faBolt, faCoins, faBan, faPlus, faTimes, faCheckCircle, faSpinner, faLock, faCircleCheck } from '@fortawesome/free-solid-svg-icons';
 
 const initialVaults = [
   {
