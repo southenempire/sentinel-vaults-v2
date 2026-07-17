@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "monskill": {
+      "source": "therealharpaljadeja/monskills",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "f39dee34abd63eb091a6244ecde8b0610ba29d76da754fee9036b0de761bd9e3"
+    },
+    "scaffold": {
+      "source": "therealharpaljadeja/monskills",
+      "sourceType": "github",
+      "skillPath": "scaffold/SKILL.md",
+      "computedHash": "c027f9da50f4ebb78f1ff713da85097fc20e49911ef1a743d13212c8e24fdc0a"
+    },
+    "wallet": {
+      "source": "therealharpaljadeja/monskills",
+      "sourceType": "github",
+      "skillPath": "wallet/SKILL.md",
+      "computedHash": "ddb7a4cfa9f1eaafb9cc5925a2918c5c78f9647325321dd431de3673705dcfa3"
+    },
+    "wallet-integration": {
+      "source": "therealharpaljadeja/monskills",
+      "sourceType": "github",
+      "skillPath": "wallet-integration/SKILL.md",
+      "computedHash": "cbe3376e25eefab2311b0b2580a8a0367ab806cb4970a373eee0002462b04a64"
+    }
+  }
+}
